@@ -1,0 +1,1 @@
+# homework-resistor-sologubov
